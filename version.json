@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "downloadUrl": "https://raw.githubusercontent.com/Juba-Juba/MyWpfApp/refs/heads/master/version.json",
+  "downloadUrl": "https://github.com/Juba-Juba/MyWpfApp/releases/download/v1.0.1/MyWpfApp_Setup.exe",
   "releaseNotes": "الإصدار الأول من البرنامج",
   "releasedAt": "2025-01-01T00:00:00Z"
 }
